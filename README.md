@@ -1,1 +1,1 @@
-# Adaptive-batch-normlization
+# ann with normalization
